@@ -5,11 +5,7 @@ public:
         for(int i=0;i<nums.size();i++){
             if(nums[i]==1){
                 count++;
-                if(i==nums.size()-1) break;
-                if(nums[i+1]==0 && count>max_count){
-                    max_count=count;
-                    count=0;
-                }
+                if(count>max_count) max_count=count;
             }
             else{
                 count=0;
