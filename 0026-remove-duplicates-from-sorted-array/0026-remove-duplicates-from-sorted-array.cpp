@@ -1,16 +1,22 @@
 class Solution {
 public:
-    int removeDuplicates(vector<int>& nums) {
-    if (nums.empty()) return 0;
+   int removeDuplicates(vector<int>& nums) {
+        int n=nums.size();
+        set<int>st;
+        int first=nums[0];
+        int last=nums[n-1];
+        int index=0;
+        for(auto it:nums ){
+            if(st.find(it)==st.end()){
+                st.insert(it);
+            
 
-    int i = 0; // slow pointer
-    for (int j = 1; j < nums.size(); j++) { // fast pointer
-        if (nums[j] != nums[i]) {
-            i++;
-            nums[i] = nums[j];
-        }
+            nums[index]=it;
+            index++;
+            }
+            
+        } 
+        return index;  
     }
-    return i + 1;
-}
 
 };
