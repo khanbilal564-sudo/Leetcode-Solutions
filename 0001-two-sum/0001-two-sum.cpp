@@ -4,7 +4,7 @@ public:
         int n=arr.size();
         vector<pair<int,int>> arrwithindex;
         for(int i=0;i<n;i++){
-            arrwithindex.emplace_back(arr[i],i);
+            arrwithindex.push_back({arr[i],i});
         }
         sort(arrwithindex.begin(),arrwithindex.end());
         int left=0,right=n-1;
