@@ -1,15 +1,20 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& arr, int target) {
-        unordered_map<int,int>map;
         int n=arr.size();
+        vector<pair<int,int>> arrwithindex;
         for(int i=0;i<n;i++){
-            int complement=target-arr[i];
-            if(map.find(complement)!=map.end()){
-                return {i,map[complement]};  
-            }
-            else map[arr[i]]=i;  
+            arrwithindex.emplace_back(arr[i],i);
         }
-        return {-1,-1};  
+        sort(arrwithindex.begin(),arrwithindex.end());
+        int left=0,right=n-1;
+        while(left<right){
+            int sum=arrwithindex[left].first+arrwithindex[right].first;
+            if(sum==target) return {arrwithindex[left].second,arrwithindex[right].second};
+            if(sum>target) right--;
+            if(sum<target) left++;
+        }
+        return {-1,-1};
+
     }
 };
