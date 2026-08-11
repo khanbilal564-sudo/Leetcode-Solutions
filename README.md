@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1929-concatenation-of-array](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -26,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
