@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1929-concatenation-of-array](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
