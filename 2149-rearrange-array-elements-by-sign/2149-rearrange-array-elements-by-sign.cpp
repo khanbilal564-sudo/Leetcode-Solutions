@@ -7,11 +7,11 @@ public:
        int pos=0,neg=1;
 
         for(int i=0;i<n;i++){
-            if(nums[i]>0 && pos<=n-2){
+            if(nums[i]>0){
                 temp[pos]=nums[i];
                 pos+=2;
             }
-            else if(nums[i]<0 && neg<=n-1){
+            else if(nums[i]<0){
                 temp[neg]=nums[i];
                 neg+=2;
             }
