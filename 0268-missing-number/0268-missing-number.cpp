@@ -2,14 +2,17 @@ class Solution {
 public:
     int missingNumber(vector<int>& nums) {
         int n=nums.size();
-        map<int,int>freq;
-
-        for(int i=0;i<n;i++){
-            freq[nums[i]]++;
+        if(n==1){
+            if(nums[0]==1) return 0;
+            else return 1;
         }
-        for(int i=0;i<=n;i++){
-            freq[i]--;
-            if(freq[i]==-1) return i;
+
+        sort(nums.begin(),nums.end());
+
+        if(nums[0]!=0) return 0;
+        for(int i=1;i<n;i++){
+            if(nums[i]!=i && nums[i-1]!=i) return i;
+            if(i+1==n) return n;
         }
         return 0;
     }
