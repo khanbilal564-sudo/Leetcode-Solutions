@@ -46,11 +46,6 @@ public:
  
                     left++;
                     right--;
- 
-                    /*
-                     * Skip repeated values so the same
-                     * triplet is not added again.
-                     */
                     while (left < right &&
                            nums[left] == nums[left - 1]) {
                         left++;
