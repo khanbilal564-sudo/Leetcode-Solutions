@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
