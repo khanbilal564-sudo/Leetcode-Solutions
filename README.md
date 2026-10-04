@@ -125,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0704-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
