@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/khanbilal564-sudo/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
