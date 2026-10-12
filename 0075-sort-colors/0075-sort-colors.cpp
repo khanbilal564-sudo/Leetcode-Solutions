@@ -16,7 +16,6 @@ public:
             swap(nums[high],nums[mid]);
             high--;
         }
-
        }
     }
 };
