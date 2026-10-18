@@ -27,7 +27,6 @@ public:
             }
             else high = mid - 1;
         }
-
         return {start,end};
     }
 };
